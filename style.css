@@ -40,6 +40,10 @@
     place-items: center;
     overflow: hidden
 }
+.navbar > button > a{
+    color:white;
+    text-decoration:none;
+}
 
 .icon {
     left: 5%;
